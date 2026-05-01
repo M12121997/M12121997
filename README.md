@@ -19,7 +19,7 @@ While a lot of this is just me messing around, I'm looking forward to uploading 
 When I'm not staring at datasets or trying to figure out why my code broke, I spend a lot of time geeking out over horology and authenticating luxury watches.
 
 ### 📫 Let's Connect
-Feel free to poke around my repos, or drop me a message at: **[Insert Your Personal Email Here]**
+Feel free to poke around my repos, or drop me a message at: **mohab1212abuahmad@gmail.com**
 <!--
 **M12121997/M12121997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
