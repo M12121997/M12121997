@@ -1,13 +1,25 @@
-Hey! 👋 I'm Mohab.
+## Hi there 👋 I'm Mohab.
 
-Welcome to my personal sandbox. By day, I'm a Transfer Pricing Consultant at Deloitte and work with Jawad's Jewelry. Here on GitHub, I'm just a guy who loves building things and learning.
+Welcome to my personal sandbox! By day, I'm a **Transfer Pricing Consultant at Deloitte** and I help run **Jawad's Jewelry**. Here on GitHub, I'm just a guy who loves building tools and exploring the quantitative side of finance.
 
-🎓 Background: I hold an MSc in Finance (AMS) and a BBA (VUBS), but I'm currently expanding into the quant space by pursuing an MSc in Financial Engineering at WQU.
-💻 Current Focus: I'm working my way through the Derivatives Pricing module at WQU, so expect to see coursework and models related to that popping up here.
-🚀 What's Here: A mix of my studies in quantitative finance, Python/SQL automation scripts, and tinkering with alternative datasets.
-📈 Up Next: I'm looking forward to adding more business-relevant content—building out practical tools that bridge the gap between data and everyday finance.
+### 🎓 Academic Background
+I come from a traditional finance background with a strong academic track record:
+- **MSc in Finance** from Antwerp Management School (*Magna Cum Laude*)
+- **BBA in International Business** from Vilnius University (*1st Class Honours, Best Thesis Award*)
 
-When I'm not trying to figure out why my code broke, I'm a huge nerd for horology and authenticating watches. Feel free to look around!
+### 🔭 What I'm Working On
+I'm currently expanding my technical toolkit by pursuing an **MSc in Financial Engineering at WorldQuant University (WQU)**. 
+- Right now, I'm deep into the **Derivatives Pricing** module, so expect to see coursework and models related to that.
+- You'll find me tinkering with stochastic modeling, financial econometrics, and testing out alternative datasets (like using weather patterns for predictive modeling).
+
+### 🌱 What's Next
+While a lot of this is just me messing around, I'm looking forward to uploading more business-relevant content—practical Python and SQL tools that automate tedious workflows and bridge the gap between raw data and everyday finance.
+
+### ⚡ Outside of Code
+When I'm not staring at datasets or trying to figure out why my code broke, I spend a lot of time geeking out over horology and authenticating luxury watches.
+
+### 📫 Let's Connect
+Feel free to poke around my repos, or drop me a message at: **[Insert Your Personal Email Here]**
 <!--
 **M12121997/M12121997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
